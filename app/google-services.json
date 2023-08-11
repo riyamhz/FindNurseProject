@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902454075680",
+    "project_id": "findnurseproject",
+    "storage_bucket": "findnurseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902454075680:android:6ecd66617b7e064dc57745",
+        "android_client_info": {
+          "package_name": "com.example.findnurseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902454075680-lr42h4mtoqtma3jmldaiqlbtepao3q2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3suyoV_kLFQDCYfL2ueGLvEMb81wDeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902454075680-lr42h4mtoqtma3jmldaiqlbtepao3q2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
